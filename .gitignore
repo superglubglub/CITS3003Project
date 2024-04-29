@@ -1,5 +1,6 @@
 /cmake-build-*
 /out
+/lib
 /build*
 /.idea
 /.vs
